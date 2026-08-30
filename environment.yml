@@ -1,0 +1,11 @@
+name: archer2-env
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas
+      - matplotlib
+      - numpy
+      - jupyter
+      - streamlit
+      - flask

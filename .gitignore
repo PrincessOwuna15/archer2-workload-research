@@ -1,0 +1,33 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Virtual environments
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Python caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+**/*.py[cod]
+
+# Editors and local tooling
+.vscode/
+**/.vscode/
+.streamlit/
+**/.streamlit/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
