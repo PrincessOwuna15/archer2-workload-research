@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ARCHER2 Workload Research
 
 This repository contains the full codebase, Jupyter notebooks, datasets, and interactive dashboard for my EPCC & Nuffield Research Placement project. The project investigates job loads and node-hour trends for the five most-used software applications on ARCHER2 from 2021–2026.
@@ -68,3 +69,7 @@ You can run the notebooks directly in your browser using Binder:
 **Owuna Princess Blossom**  
 Edinburgh, Scotland  
 GitHub: https://github.com/PrincessOwuna15
+=======
+# archer2-workload-research
+An interactive portfolio of my EPCC and Nuffield Research Placement project. 
+>>>>>>> 707111b899d409b2b8b62092707b978fe2992d24

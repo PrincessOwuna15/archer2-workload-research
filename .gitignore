@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local secrets and environment files
 .env
 .env.*
@@ -31,3 +32,21 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+=======
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python files and caches
+__pycache__/
+*.py[cod]
+
+# Streamlit and local tooling
+.streamlit/
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+>>>>>>> 707111b899d409b2b8b62092707b978fe2992d24
