@@ -36,7 +36,7 @@ Raw CSV files downloaded from ARCHER2 and the combined dataset used for analysis
 You can run the notebooks directly in your browser using Binder:
 
 **Binder launch link:**  
-https://hub.2i2c.mybinder.org/user/princessowuna15-rkload-research-r4sd3zt4/lab
+https://mybinder.org
 
 
 ---
